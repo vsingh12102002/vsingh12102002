@@ -1,4 +1,4 @@
-# 💫 About Me: I'm Vishal Singh
+#                                                                                        I'm Vishal Singh
 Intro:<br>💻 Data Engineering & Data Analytics Enthusiast<br>📊 Working with Microsoft Fabric for building modern data solutions<br>🚀 Passionate about transforming raw data into meaningful insights<br>🎯 Focused on building scalable data pipelines and ML-driven systems<br><br>Currently Working On:<br>🔭 Currently working on Microsoft Fabric<br>📡 Working with real-time / live datasets<br>📊 Creating interactive dashboards and reports<br>🛠️ Data Modeling and ETL processes<br><br>Currently Learning:<br>🤖 Machine Learning (Supervised & Unsupervised Learning)<br>📈 Feature Engineering & Model Optimization<br>🧠 Advanced SQL & Query Optimization<br>⚙️ Data Warehousing Concepts<br><br>Looking to Collaborate On:<br>🤝 Data Engineering Projects<br>📊 End-to-End Data Analytics Projects<br>🧠 ML-based Real-world Applications<br>📦 Data Pipeline Automation<br>📈 Financial / Stock Market Data Analysis Systems<br>
 
 
